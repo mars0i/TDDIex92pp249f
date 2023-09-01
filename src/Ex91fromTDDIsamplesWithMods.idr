@@ -1,7 +1,6 @@
 module Ex91fromTDDIsamplesWithMods
 
 import Decidable.Equality
-import Data.List  -- for isNil
 
 -- Ex. 2, pp. 249f:
 
